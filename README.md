@@ -62,4 +62,3 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/jleandro92/jleandro92/blob/output/github-contribution-grid-snake.svg)
