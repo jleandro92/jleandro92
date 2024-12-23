@@ -1,4 +1,4 @@
-## Olá sou o Jotta! 👋
+## Olá sou o Jotta! Aqui ainda está em construção 👋
 
 <div>
   <img
