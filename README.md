@@ -1,36 +1,10 @@
-# 🌌 Olá, eu sou o Jotta! 🌌
+# <span style="color: orange;">🌌 Olá, eu sou o Jotta! 🌌</span>
 
-  .      .           .  .   . .   .   . .    +  .
-    .     .  :     .    .. :. .___---------___.
-         .  .   .    .  :.:. _".^ .^ ^.  '.. :"-_. .
-      .  :       .  .  .:../:            . .^  :.:\.
-          .   . :: +. :.:/: .   .    .        . . .:\
-   .  :    .     . _ :::/:               .  ^ .  . .:\
-    .. . .   . - : :.:./.                        .  .:\
-    .      .     . :..|:                    .  .  ^. .:|
-      .       . : : ..||        .                . . !:|
-    .     . . . ::. ::\(                           . :)/  
-   .   .     : . : .:.|. ######              .#######::|
-    :.. .  :-  : .:  ::|.#######           ..########:|
-   .  .  .  ..  .  .. :\ ########          :######## :/
-    .        .+ :: : -.:\ ########       . ########.:/
-      .  .+   . . . . :.:\. #######       #######..:/
-        :: . . . . ::.:..:.\           .   .   ..:/
-     .   .   .  .. :  -::::.\.       | |     . .:/
-        .  :  .  .  .-:.":.::.\             ..:/
-   .      -.   . . . .: .:::.:.\.           .:/
-  .   .   .  :      : ....::_:..:\   ___.  :/
-     .   .  .   .:. .. .  .: :.:.|\  \  \ :|
-       +   .   .   : . ::. :.:. .:.|\  \  \|
-
-
-*Bem-vindo à minha dimensão digital, onde códigos e design se encontram no futuro.*  
-
-![Futuristic Banner](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+*Bem-vindo à minha dimensão digital, onde códigos e design se encontram no estilo Dragon Ball.*
 
 ---
 
-## 🤖 Habilidades Tecnológicas
+## <span style="color: orange;">🤖 Habilidades Tecnológicas</span>
 
 <div align="center">
   <img height="50" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -44,7 +18,7 @@
 
 ---
 
-## 🎨 Design Futurista
+## <span style="color: orange;">🎨 Design Futurista</span>
 
 <div align="center">
   <img height="50" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -54,16 +28,16 @@
 
 ---
 
-## 📊 Estatísticas Futuristas
+## <span style="color: orange;">📊 Estatísticas Futuristas</span>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=vision-friendly-dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=dark">
 </div>
 
 ---
 
-## 🔗 Contatos Digitais
+## <span style="color: orange;">🔗 Contatos Digitais</span>
 
 <div align="center">
   <a href="https://www.instagram.com/jleandro92">
@@ -79,4 +53,4 @@
 
 ---
 
-✨ *“No futuro, cada linha de código é uma sinapse em um cérebro digital.”*
+<span style="color: orange;">✨ “No estilo Dragon Ball, cada linha de código é como um golpe de energia!” ✨</span>
