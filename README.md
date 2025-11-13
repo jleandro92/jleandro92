@@ -1,38 +1,59 @@
-## Olá, eu sou o Jotta! 👋
+# 💥 Olá, eu sou o Jotta! 💥
 
-Sou desenvolvedor apaixonado por tecnologia e design. Este perfil está em construção 🚀
+*Bem-vindo ao meu mundo de códigos, design e aventuras digitais!*
+
+![Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
+## 🦸‍♂️ Minhas Habilidades
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=16&theme=great-gatsby">
+  <img height="50" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img height="50" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="50" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="50" width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img height="50" width="50" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img height="50" width="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="50" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🎨 Design & Criatividade
+
 <div align="center">
-  <img height="40" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img height="40" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="40" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="40" width="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img height="40" width="40" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img height="40" width="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="40" width="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="50" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img height="50" width="50" alt="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  <img height="50" width="50" alt="Corel Draw" src="coreldraw.svg">
 </div>
 
 ---
 
-### 🎨 Softwares de Design
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="40" width="40" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img height="40" width="40" alt="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img height="40" width="40" alt="Corel Draw" src="coreldraw.svg">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=dracula">
 </div>
 
 ---
 
-### 🔗 Redes Sociais
-<div
+## 🔗 Redes Sociais
+
+<div align="center">
+  <a href="https://www.instagram.com/jleandro92">
+    <img alt="Instagram" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg">
+  </a>
+  <a href="mailto:jleandrojose.dev0802@gmail.com">
+    <img alt="Gmail" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/jleandro92/">
+    <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg">
+  </a>
+</div>
+
+---
+
+✨ *“Codando minha própria história em quadrinhos digital!”*
 
