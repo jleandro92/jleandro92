@@ -1,12 +1,12 @@
-# 💥 Olá, eu sou o Jotta! 💥
+# ⚡ Olá, eu sou o Jotta! ⚡
 
-*Bem-vindo ao meu mundo de códigos, design e aventuras digitais!*
+*Bem-vindo ao meu mundo de códigos e designs sombrios, cheio de energia amaldiçoada!*  
 
-![Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Banner](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)  
 
 ---
 
-## 🦸‍♂️ Minhas Habilidades
+## 🌀 Habilidades do Feiticeiro
 
 <div align="center">
   <img height="50" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎨 Design & Criatividade
+## 🎨 Artes do Feiticeiro
 
 <div align="center">
   <img height="50" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -30,16 +30,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do Jujutsu
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=radical">
 </div>
 
 ---
 
-## 🔗 Redes Sociais
+## 🔗 Redes Sociais do Feiticeiro
 
 <div align="center">
   <a href="https://www.instagram.com/jleandro92">
@@ -55,5 +55,4 @@
 
 ---
 
-✨ *“Codando minha própria história em quadrinhos digital!”*
-
+✨ *“Como em Jujutsu Kaisen, cada linha de código é um feitiço... e cada commit, uma batalha!”*
