@@ -1,12 +1,12 @@
-# ⚡ Olá, eu sou o Jotta! ⚡
+# 🐉 Kamehameha! Eu sou o Jotta! 🐉
 
-*Bem-vindo ao meu mundo de códigos e designs sombrios, cheio de energia amaldiçoada!*  
+*Bem-vindo ao meu universo de códigos, designs e batalhas digitais!*
 
-![Banner](https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif)  
+![Dragon Ball Banner](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
-## 🌀 Habilidades do Feiticeiro
+## 💥 Habilidades do Saiyajin
 
 <div align="center">
   <img height="50" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎨 Artes do Feiticeiro
+## 🎨 Artes do Guerreiro
 
 <div align="center">
   <img height="50" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -30,16 +30,16 @@
 
 ---
 
-## 📊 Estatísticas do Jujutsu
+## 📊 Estatísticas do Super Saiyajin
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=dracula">
 </div>
 
 ---
 
-## 🔗 Redes Sociais do Feiticeiro
+## 🔗 Redes Sociais do Guerreiros Z
 
 <div align="center">
   <a href="https://www.instagram.com/jleandro92">
@@ -55,4 +55,4 @@
 
 ---
 
-✨ *“Como em Jujutsu Kaisen, cada linha de código é um feitiço... e cada commit, uma batalha!”*
+✨ *“Cada linha de código é como um Kamehameha — poderosa e épica!”*
