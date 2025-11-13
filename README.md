@@ -1,12 +1,12 @@
-# 🐉 Kamehameha! Eu sou o Jotta! 🐉
+# 🌌 Olá, eu sou o Jotta! 🌌
 
-*Bem-vindo ao meu universo de códigos, designs e batalhas digitais!*
+*Bem-vindo à minha dimensão digital, onde códigos e design se encontram no futuro.*
 
-![Gohan vs Cell](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Futuristic Banner](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
 
 ---
 
-## 💥 Habilidades do Saiyajin
+## 🤖 Habilidades Tecnológicas
 
 <div align="center">
   <img height="50" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎨 Artes do Guerreiro
+## 🎨 Design Futurista
 
 <div align="center">
   <img height="50" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -30,16 +30,16 @@
 
 ---
 
-## 📊 Estatísticas do Super Saiyajin
+## 📊 Estatísticas Futuristas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jleandro92&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleandro92&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
 
 ---
 
-## 🔗 Redes Sociais do Guerreiros Z
+## 🔗 Contatos Digitais
 
 <div align="center">
   <a href="https://www.instagram.com/jleandro92">
@@ -55,4 +55,4 @@
 
 ---
 
-✨ *“Cada linha de código é como um Kamehameha — poderosa e épica!”*
+✨ *“No futuro, cada linha de código é uma sinapse em um cérebro digital.”*
