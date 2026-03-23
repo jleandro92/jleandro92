@@ -41,7 +41,7 @@
 ## 🔗 Redes Sociais
 
 <div align="center" style="margin-top: 15px;">
-  <a href="https://www.instagram.com/jleandro92">
+  <a href="https://www.instagram.com/jotta.tsx">
     <img alt="Instagram" width="30" src="instagram.png">
   </a>
   <a href="mailto:jleandrojose.dev0802@gmail.com">
